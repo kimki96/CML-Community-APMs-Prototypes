@@ -20,7 +20,7 @@ entries:
       - llama3
       - chainlit
       - Trulens
-    git_url: 'https://github.com/bigdata-biz/SuperEllipse-WealthE'
+    git_url: 'https://github.com/kimki96/SuperEllipse-WealthE'
     is_prototype: true
     is_community: true
     is_new: true
