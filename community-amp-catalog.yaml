@@ -64,7 +64,7 @@ entries:
       - llamaindex
       - llama3
       - Trulens
-    git_url: 'https://github.com/bigdata-biz/SuperEllipse-Trulens'
+    git_url: 'https://github.com/kimki96/SuperEllipse-Trulens'
     is_prototype: true
     is_community: true
     is_new: true
